@@ -240,7 +240,7 @@ like this, and learning to handle that variety was the goal.
 ![Dashboard](screenshots/Dashboard.png)
 
 ### Forecast Accuracy Summary
-![Accuracy Summary](screenshots/Accuracy_summary_table.png)
+![Accuracy Summary](screenshots/Accuracy_Summary_table.png)
 
 ### S&OP Summary
 ![S&OP Summary](screenshots/SOP_summary.png)
