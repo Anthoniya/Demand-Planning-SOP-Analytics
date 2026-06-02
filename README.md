@@ -240,13 +240,13 @@ like this, and learning to handle that variety was the goal.
 ![Dashboard](screenshots/dashboard.png)
 
 ### Forecast Accuracy Summary
-![Accuracy Summary](screenshots/Accuracy summary.png)
+![Accuracy Summary](screenshots/Accuracy Summary table.png)
 
 ### S&OP Summary
-![S&OP Summary](screenshots/Sop summary.png)
+![S&OP Summary](screenshots/SOP summary.png)
 
 ### Exception Report
-![Exception Report](screenshots/Exception report.png)
+![Exception Report](screenshots/exception report.png)
 
 ---
 
