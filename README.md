@@ -237,17 +237,16 @@ like this, and learning to handle that variety was the goal.
 
 ## Dashboard Preview
 ### Excel Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### Forecast Accuracy Summary
-![Accuracy Summary](screenshots/Accuracy Summary table.png)
+![Accuracy Summary](screenshots/Accuracy_summary_table.png)
 
 ### S&OP Summary
-![S&OP Summary](screenshots/SOP summary.png)
+![S&OP Summary](screenshots/SOP_summary.png)
 
 ### Exception Report
-![Exception Report](screenshots/exception report.png)
-
+![Exception Report](screenshots/exception_report.png)
 ---
 
 ## Skills Covered in This Project
