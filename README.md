@@ -236,8 +236,17 @@ like this, and learning to handle that variety was the goal.
 ---
 
 ## Dashboard Preview
+### Excel Dashboard
+![Dashboard](screenshots/dashboard.png)
 
-*Screenshots will be added on completion of the Power BI dashboard*
+### Forecast Accuracy Summary
+![Accuracy Summary](screenshots/Accuracy summary.png)
+
+### S&OP Summary
+![S&OP Summary](screenshots/Sop summary.png)
+
+### Exception Report
+![Exception Report](screenshots/Exception report.png)
 
 ---
 
